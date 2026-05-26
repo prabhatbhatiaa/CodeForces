@@ -1,12 +1,26 @@
 # <p align="center">CodeForces</p>
 
-### Status
-| S.No | Title    | Link |
-| ---- | --------    | ------ |
-| 1.   | 4A. Watermelon | <a href="https://codeforces.com/contest/4/submission/375773237" target="_blank" rel="noopener noreferrer">Submission</a>|
-| 2.   | 71A. Way Too Long Words | <a href="https://codeforces.com/problemset/submission/71/375892049" target="_blank" rel="noopener noreferrer">Submission</a> |
-| 3.   | 231A. Trees | <a href="https://codeforces.com/problemset/submission/231/376065495" target="_blank" rel="noopener noreferrer">Submission</a> |
+Problemset: https://codeforces.com/problemset?order=BY_SOLVED_DESC <br>
+TLE_CP_31 Sheet: https://www.tle-eliminators.com/cp-sheet
 
+---
+
+### Problem Status
+
+| Category   | No Of Ques.    |
+| ---------- | -------------- |
+| Problemset | 3              |
+| CP31 Sheet | 0              |
+
+---
+
+### Contests
+
+| S.No | Contest                                                                      | Status    |
+| ---- | ---------------------------------------------------------------------------- | --------- |
+| 1.   | <a href="https://codeforces.com/contests/2232">Codeforces Round (Div. 2)</a> | Pending   |
+
+---
 
 ### Stats
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prabhatbhatia)
