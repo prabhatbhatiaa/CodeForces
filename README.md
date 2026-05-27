@@ -9,7 +9,7 @@ TLE_CP_31 Sheet: https://www.tle-eliminators.com/cp-sheet
 
 | Category   | No Of Ques.    |
 | ---------- | -------------- |
-| Problemset | 4              |
+| Problemset | 5              |
 | CP31 Sheet | 0              |
 
 ---
